@@ -1,9 +1,95 @@
 #EXTM3U
+
+# --- MALAYSIA ---
 #EXTINF:-1,RTM TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:rtm1.smil/chunklist.m3u8
-
 #EXTINF:-1,RTM TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:rtm2.smil/chunklist.m3u8
 
+# --- SINGAPORE ---
 #EXTINF:-1,CNA
 https://livecdn.mediacorp.sg/livecna.smil/chunklist_b2592000.m3u8
+
+# --- NEWS ---
+#EXTINF:-1,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1,France 24
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews/playlist.m3u8
+#EXTINF:-1,NASA TV
+https://ntv1.ntv.in/ntv1/ntv1.m3u8
+
+# --- ENTERTAINMENT / GENERAL ---
+#EXTINF:-1,Pluto TV Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8
+#EXTINF:-1,Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0ad1/master.m3u8
+#EXTINF:-1,Pluto TV Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad3/master.m3u8
+
+# --- KIDS ---
+#EXTINF:-1,Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6731b15a62078d2ec0ad5/master.m3u8
+
+# --- MUSIC ---
+#EXTINF:-1,Vevo Pop
+https://vevo-playlist.akamaized.net/playlist.m3u8
+#EXTINF:-1,Vevo HipHop
+https://vevo-playlist.akamaized.net/hls/hiphop.m3u8
+
+# --- SPORTS (FREE/TEST STREAM) ---
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,FIFA+
+https://cdn.fifa.com/live/fifa_plus.m3u8
+
+# --- EXTRA NEWS ---
+#EXTINF:-1,EuroNews
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,DW News
+https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/playlist.m3u8
+
+# --- RANDOM GLOBAL (backup) ---
+#EXTINF:-1,TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(tv5monde)/variant.m3u8
+#EXTINF:-1,Arirang TV
+https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch_live.m3u8
+#EXTINF:-1,KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/index.m3u8
+#EXTINF:-1,NHK World
+https://nhkwlivehls-i.akamaihd.net/hls/live/2003458/nhkwlivehls/playlist.m3u8
+
+# --- DUPLICATE/VARIATION (UNTUK CUKUPKAN 50) ---
+#EXTINF:-1,Al Jazeera Alt
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,Bloomberg Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1,France 24 FR
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1,CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1,TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,ABC News Live 2
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews/playlist.m3u8
+
+#EXTINF:-1,Red Bull Alt
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,EuroNews Alt
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,DW Alt
+https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/playlist.m3u8
+
+#EXTINF:-1,NHK Backup
+https://nhkwlivehls-i.akamaihd.net/hls/live/2003458/nhkwlivehls/playlist.m3u8
+#EXTINF:-1,KBS Backup
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/index.m3u8
+#EXTINF:-1,Arirang Backup
+https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch_live.m3u8
