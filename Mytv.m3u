@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,RTM TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:rtm1.smil/chunklist.m3u8
+
+#EXTINF:-1,RTM TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:rtm2.smil/chunklist.m3u8
+
+#EXTINF:-1,CNA
+https://livecdn.mediacorp.sg/livecna.smil/chunklist_b2592000.m3u8
